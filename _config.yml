@@ -1,0 +1,25 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Granite State Craft Works
+layout_spectrum: 0.6341490985359997
+typography_spectrum: 0.6377100127283484
+color:
+  brandStrength: 0.82093894504942
+  lightness: 0.6895729026291519
+  saturation: 0.9915056878235191
+  rhythmicContrast: 0.950114079983905
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+content: []
+title: Granite State Craft Works
+description: ''
+github: true
